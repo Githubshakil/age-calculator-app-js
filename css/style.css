@@ -74,3 +74,7 @@
     color: rgb(81, 50, 50);
     font-weight: 700;
 }
+
+#result span{
+    color: #f7e6a5;
+}

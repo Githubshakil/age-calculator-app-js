@@ -42,7 +42,7 @@ function calculateAge(){                       // Function to calculate age
         m3 = 11;
         y3--;
     }
-    result.innerHTML = `You are ${y3} years, ${m3} months and ${d3} days Old `;
+    result.innerHTML = `You are <span> ${y3} </span> years, <span> ${m3} </span> months and <span> ${d3} </span> days Old `;
     
 }
 
