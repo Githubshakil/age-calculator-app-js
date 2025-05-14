@@ -68,3 +68,9 @@
    background-size: 30px;
    cursor: pointer;
 }
+
+#result{
+    font-size: 20px;
+    color: rgb(81, 50, 50);
+    font-weight: 700;
+}
